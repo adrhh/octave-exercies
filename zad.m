@@ -3,7 +3,7 @@ clear;
 
 #wektor punktow x
 x = [1, 2, 4, 6, 8, 10]
-y = [6, 6, 4, 2, 0, 10 ]
+y = [6, 6, 4, 2, 0, 0 ]
 
 #rysuj wykres
 plot(x,y);
